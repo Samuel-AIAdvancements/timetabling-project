@@ -1,0 +1,56 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 85%; 
+    table-layout: fixed; 
+    overflow: auto; 
+  }
+  
+  td, th {
+    border: 1px solid black;
+    text-align: center;
+    
+    width: 0.5rem;
+    height: 0.5rem;
+  }
+  
+  td {
+    background-color: white;
+  }
+
+  th {
+    font-size: 5px;
+  }
+
+  .green {
+    background-color: green;
+  }
+  
+  .blue {
+    background-color: blue;
+  }
+  
+  .red {
+    background-color: red;
+  }
+  
+  .white {
+    background-color: white;
+  }
+  
+  .popup {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #eee;
+    padding: 20px;
+    border: 1px solid #333;
+  }

@@ -1,0 +1,14 @@
+.heatmap-table {
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  
+  .heatmap-table th, .heatmap-table td {
+    border: 1px solid black;
+    padding: 15px;
+    text-align: center;
+  }
+
+
+

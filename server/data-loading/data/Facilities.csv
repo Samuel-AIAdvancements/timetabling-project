@@ -1,0 +1,200 @@
+buildingNum,roomNum,roomType,capacity,longtitude,latitude
+163,352,Lecture Theatre,24,98.29,18.79
+220,315,Lecture Theatre,188,139.11,8.92
+137,380,Computer Lab,27,-98.88,48.36
+286,151,Lecture Theatre,179,-146.91,-85.08
+350,414,Projector Classroom,90,6.69,-56.23
+340,291,Lecture Theatre,109,-26.09,27.93
+476,497,Classroom,196,-100.1,-48.08
+481,370,Projector Classroom,138,-121.35,-27.43
+277,300,Classroom,146,112.86,-85.36
+107,361,Lecture Theatre,157,135.18,35.09
+294,280,Lecture Theatre,69,-134.76,32.86
+391,313,Lecture Theatre,59,-49.1,-17.6
+437,341,Computer Lab,95,-172.18,-35.8
+348,167,Lecture Theatre,131,-72.91,-83.77
+183,434,Lecture Theatre,62,-178.11,-62.78
+127,316,Classroom,87,56.12,-3.68
+389,362,Classroom,147,-76.07,39.55
+316,137,Computer Lab,92,-132.15,15.16
+181,328,Classroom,105,-24.79,29.12
+388,166,Computer Lab,132,74.64,-77.51
+340,177,Computer Lab,81,56.21,78.83
+405,399,Lecture Theatre,56,-27.46,46.08
+451,174,Projector Classroom,116,13.17,-20.66
+106,138,Lecture Theatre,153,25.22,-41.4
+442,463,Projector Classroom,130,129.95,-37.86
+202,390,Computer Lab,147,-154.49,-0.74
+331,284,Lecture Theatre,172,81.19,-74.35
+420,137,Lecture Theatre,123,-103.46,78.77
+296,285,Classroom,92,40.71,71.57
+337,159,Projector Classroom,165,36.36,19.98
+480,260,Lecture Theatre,145,-136.19,-66.15
+210,101,Computer Lab,126,39.33,51.69
+413,394,Classroom,183,112.39,66.78
+338,482,Projector Classroom,51,76.76,-0.84
+447,275,Computer Lab,197,154.2,-74.44
+274,117,Classroom,136,99.55,-45.18
+308,399,Classroom,79,146.85,-6.16
+223,164,Classroom,37,38.12,78.38
+470,116,Projector Classroom,124,-123.9,53.48
+291,365,Lecture Theatre,197,-115.86,85.7
+335,153,Classroom,136,114.45,-34.7
+166,377,Lecture Theatre,75,48.38,-2.99
+334,352,Projector Classroom,30,101.75,-12.07
+135,396,Lecture Theatre,82,-146.12,-36.85
+180,470,Projector Classroom,179,56.9,-68.8
+331,402,Computer Lab,196,123.71,-36.02
+407,179,Classroom,43,-91.08,-55.66
+259,446,Projector Classroom,98,-90.67,51.85
+312,484,Classroom,126,56.3,-53.18
+224,256,Computer Lab,197,94.87,35.67
+363,148,Computer Lab,60,59.7,-87.69
+386,465,Projector Classroom,178,31.44,70.74
+212,463,Projector Classroom,181,26.05,16.67
+438,173,Projector Classroom,156,-20,58.41
+138,361,Projector Classroom,144,81.22,77.94
+171,119,Lecture Theatre,12,164.12,-24.12
+351,444,Projector Classroom,20,58.39,2.7
+252,462,Computer Lab,13,-26.96,-10.12
+153,180,Computer Lab,107,-97.13,20.14
+219,280,Computer Lab,34,-105.14,-2.67
+349,115,Classroom,108,-70.11,1.09
+157,487,Classroom,116,155.38,-76.71
+304,370,Computer Lab,163,-13.18,11.73
+233,481,Classroom,104,-41.56,9.55
+180,374,Lecture Theatre,16,91.46,-6.96
+337,170,Lecture Theatre,134,-104.75,-41.05
+462,247,Lecture Theatre,199,101.22,5.04
+128,371,Projector Classroom,186,-83.77,32.76
+173,134,Classroom,192,99.29,-33.53
+116,268,Lecture Theatre,48,-99.39,57.31
+213,194,Computer Lab,46,147.19,-62.18
+282,283,Lecture Theatre,127,26.24,57.43
+290,281,Projector Classroom,93,178.8,-51.7
+236,351,Classroom,20,-126.21,85.12
+387,499,Classroom,101,14.29,-73.21
+258,331,Computer Lab,182,-114.42,-31.31
+145,151,Computer Lab,154,155.16,-63.28
+342,483,Classroom,80,148.01,0.06
+344,422,Classroom,85,93.85,-80.81
+115,391,Classroom,104,-105.37,-70.11
+133,494,Computer Lab,97,-148.72,66.1
+348,489,Projector Classroom,68,64.3,61.38
+348,206,Classroom,32,-87.52,32.79
+452,429,Projector Classroom,160,174.41,83.53
+184,392,Computer Lab,18,-4.03,-84.75
+167,217,Lecture Theatre,129,59.13,5.18
+143,430,Computer Lab,114,-156.35,-58.06
+225,114,Classroom,21,-91.97,-6.97
+213,435,Projector Classroom,68,-74.52,-29.35
+337,187,Classroom,116,169.79,55.39
+452,204,Classroom,35,-142.54,45.81
+270,321,Projector Classroom,86,22.95,-39.91
+396,226,Lecture Theatre,161,-92.3,43.41
+246,113,Projector Classroom,79,-25.71,83.89
+162,191,Classroom,149,-126.89,13.75
+299,210,Computer Lab,185,-4.27,-76.39
+104,312,Projector Classroom,47,-118.24,-34.37
+248,205,Classroom,28,-162.9,-50.68
+357,449,Classroom,190,171.67,0.88
+482,496,Projector Classroom,185,146.4,87.08
+424,419,Computer Lab,178,-93.58,-33.63
+274,112,Classroom,177,-131.85,32.16
+179,426,Lecture Theatre,152,-45.7,19.42
+320,290,Classroom,30,47.13,-60.59
+426,356,Lecture Theatre,117,-1.41,-39.94
+212,272,Computer Lab,100,58.03,62.44
+291,342,Computer Lab,152,83.81,-82.77
+297,496,Classroom,189,67.25,-0.73
+244,260,Lecture Theatre,48,-1.06,-74.87
+405,353,Computer Lab,102,-138.79,18.89
+450,441,Classroom,78,176.84,82.57
+195,129,Projector Classroom,197,44.92,39.05
+200,263,Lecture Theatre,129,150.94,44.32
+158,353,Lecture Theatre,179,-117.1,38.73
+130,459,Lecture Theatre,102,77.05,51.37
+370,357,Projector Classroom,144,-117.39,-15.21
+418,272,Computer Lab,161,-74.51,3.3
+214,449,Computer Lab,80,71.91,-49.99
+307,311,Lecture Theatre,136,-97.94,59.46
+471,419,Projector Classroom,44,40.86,49.52
+484,266,Computer Lab,110,-151.95,38.24
+105,129,Projector Classroom,154,-162.82,-71.67
+167,213,Computer Lab,172,102.6,-87.77
+287,392,Classroom,132,48.63,7.75
+371,380,Computer Lab,174,-159.05,-84.49
+290,280,Projector Classroom,81,-124.42,42.22
+450,476,Lecture Theatre,58,152.06,-4.63
+468,226,Projector Classroom,77,-176.45,79.72
+296,343,Lecture Theatre,32,44.01,-54.28
+242,223,Lecture Theatre,71,167.99,16.01
+120,266,Computer Lab,175,-88.74,-89.99
+436,149,Projector Classroom,123,-57.24,-79.47
+279,264,Computer Lab,100,85.87,71.86
+406,341,Projector Classroom,61,-60.1,44.24
+169,195,Classroom,87,172.07,15.6
+407,366,Classroom,88,-135.95,69.73
+207,276,Projector Classroom,67,151.62,35.94
+469,169,Classroom,81,-179.44,-75.3
+357,177,Lecture Theatre,120,101.4,-87.72
+297,159,Classroom,111,-134.7,-37.63
+334,189,Lecture Theatre,127,149.42,-9.95
+345,322,Lecture Theatre,140,-126.25,0.71
+443,190,Classroom,115,-79.5,-12.54
+452,455,Projector Classroom,107,-0.15,65.61
+208,275,Computer Lab,126,103.46,67.12
+439,175,Computer Lab,59,46.35,-15.3
+459,398,Projector Classroom,115,-101.6,33.59
+336,247,Computer Lab,162,-68.42,-2.92
+338,330,Lecture Theatre,189,95.88,21.66
+217,273,Computer Lab,12,119.56,16.81
+202,453,Projector Classroom,141,113.22,-42.82
+143,411,Lecture Theatre,13,-8.66,84.51
+143,473,Projector Classroom,89,134.68,12.6
+164,444,Computer Lab,94,35.35,9.28
+252,457,Computer Lab,112,-132,-71.89
+205,308,Classroom,104,-105.8,-83.26
+151,182,Projector Classroom,190,146.07,-79.74
+344,103,Lecture Theatre,112,-100.81,-52.24
+212,303,Projector Classroom,19,-101.65,-74.56
+194,185,Classroom,60,-12.52,56.42
+434,123,Classroom,178,-131.21,-17.13
+357,136,Computer Lab,15,-141.74,-27.55
+293,106,Computer Lab,143,-124.87,-64.72
+157,414,Computer Lab,17,98.31,37.09
+256,438,Lecture Theatre,69,56.21,-87.79
+108,239,Classroom,189,-40.31,-62.22
+308,162,Classroom,156,42.93,53.4
+162,349,Classroom,141,-68.37,-22.83
+105,469,Classroom,79,63.31,-25.81
+418,195,Projector Classroom,59,107.46,-45.34
+471,181,Projector Classroom,10,71.91,-15.64
+199,347,Lecture Theatre,13,-163.12,-66.77
+318,206,Computer Lab,129,149.78,89.25
+340,215,Lecture Theatre,100,130.51,13.98
+436,118,Projector Classroom,26,-106.07,-82.55
+272,144,Classroom,140,-166.65,77.28
+408,372,Projector Classroom,66,45.7,-24.27
+256,467,Computer Lab,90,-3.01,-84.78
+201,358,Projector Classroom,53,-110.33,11.83
+213,404,Lecture Theatre,198,-174.46,-58.9
+322,443,Classroom,185,-88,76.21
+300,451,Projector Classroom,35,174.18,47.62
+229,283,Classroom,134,-152.47,61.35
+245,233,Lecture Theatre,72,-160.61,-60.17
+155,278,Projector Classroom,189,34.52,-56.8
+491,466,Computer Lab,98,-90.41,-8.42
+124,407,Projector Classroom,166,38,-51.17
+146,304,Classroom,34,111.04,-81.5
+469,200,Computer Lab,120,-73.61,71.37
+405,333,Classroom,89,-88.16,-48.51
+443,178,Classroom,12,-78.73,3.53
+347,166,Computer Lab,151,36.14,-13.74
+381,212,Computer Lab,23,104.27,-89.39
+256,421,Classroom,100,45.14,41.88
+164,302,Computer Lab,51,109.65,77.43
+323,485,Computer Lab,46,-116.6,30.52
+476,385,Lecture Theatre,126,153.73,-71.63
+260,434,Classroom,132,114.38,25.48
+177,336,Lecture Theatre,164,72.17,-29.3
